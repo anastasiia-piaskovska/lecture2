@@ -1,2 +1,3 @@
 # lecture2
-Study git
+Study git and
+Learn fast
